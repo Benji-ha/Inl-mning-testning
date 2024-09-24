@@ -1,0 +1,7 @@
+.partofspeech:first-letter {
+    text-transform: uppercase;
+}
+
+.word:first-letter {
+    text-transform: uppercase;
+}
